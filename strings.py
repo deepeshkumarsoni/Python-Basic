@@ -21,4 +21,3 @@ for i in s :
 print(s[:])
 print(s[::-1])
 
-# 
